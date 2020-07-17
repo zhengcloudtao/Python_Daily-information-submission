@@ -1,6 +1,6 @@
 # Python_Daily-information-submission
 Python_每日信息报送
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200717113713535.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTA5NjU2OQ==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020071711582579.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTA5NjU2OQ==,size_16,color_FFFFFF,t_70)
 # 每日信息报送
 
 ## 一、获取route、JSESSIONID、lt、pwdDefaultEncryptSalt
@@ -49,7 +49,7 @@ Python_每日信息报送
 
 - 如果不为空，校验成功，ST可用
 
-## 四、获取_WEU-1
+## 五、获取_WEU-1
 
 ### "url":"https://ehall.szpt.edu.cn/publicappinternet/sys/szptpubxsjkxxbs/*default/index.do"
 
@@ -59,7 +59,7 @@ Python_每日信息报送
 
 ### Response:Cookie里获取route、两个_WEU中长的
 
-## 五、获取_WEU-2
+## 六、获取_WEU-2
 
 ### "url":"https://ehall.szpt.edu.cn/publicappinternet/sys/itpub/MobileCommon/getMenuInfo.do"
 
@@ -71,7 +71,7 @@ Python_每日信息报送
 
 ### Response:Cookie里获取_WEU
 
-## 六、获取route
+## 七、获取route
 
 ### "url": "https://ehall.szpt.edu.cn/publicappinternet/sys/szptpubxsjkxxbs/mrxxbs/getReportConfig.do"
 
@@ -81,7 +81,7 @@ Python_每日信息报送
 
 ### Response:Cookie里获取route
 
-## 七、提交表
+## 八、提交表
 
 ### "url":"https://ehall.szpt.edu.cn/publicappinternet/sys/szptpubxsjkxxbs/mrxxbs/saveReportInfo.do"
 
