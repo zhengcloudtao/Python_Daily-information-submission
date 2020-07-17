@@ -1,5 +1,6 @@
 # Python_Daily-information-submission
 Python_每日信息报送
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200717113713535.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTA5NjU2OQ==,size_16,color_FFFFFF,t_70)
 # 每日信息报送
 
 ## 一、获取route、JSESSIONID、lt、pwdDefaultEncryptSalt
